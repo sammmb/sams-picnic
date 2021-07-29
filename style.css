@@ -1,0 +1,73 @@
+body{
+    background: rgb(255,133,251);
+    background: -moz-linear-gradient(top, rgb(255,133,251) 0%, rgb(255,255,255) 50%, rgb(59,217,67) 100%);
+    background: -webkit-linear-gradient(top, rgb(255,133,251) 0%, rgb(255,255,255) 50%, rgb(59,217,67) 100%);
+    background: linear-gradient(to bottom, rgb(255,133,251) 0%, rgb(255,255,255) 50%, rgb(59,217,67) 100%);
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-right: 60px;
+    margin-bottom: 30px;
+    border: 20px groove #FEFFFC;
+    padding-right: 70px;
+    padding-left:70px 
+
+} 
+
+h1{
+color: #A7DD3C;
+text-shadow: 2px 0 0px #800040, 3px 2px 0px rgba(77,0,38,0.5), 3px 0 3px #FF002B, 5px 0 3px #800015, 6px 2px 3px rgba(77,0,13,0.5), 6px 0 9px #FF5500, 8px 0 9px #802A00, 9px 2px 9px rgba(77,25,0,0.5), 9px 0 18px #FFD500, 11px 0 18px #806A00, 12px 2px 18px rgba(77,66,0,0.5), 12px 0 30px #D4FF00, 14px 0 30px #6A8000, 15px 2px 30px rgba(64,77,0,0.5), 15px 0 45px #80FF00, 17px 0 45px #408000, 17px 2px 45px rgba(38,77,0,0.5);
+font-family: 'Ruslan Display', cursive;
+font-size: 95px;
+letter-spacing: -0.8px;
+word-spacing: -1.6px;
+color: #1EC941;
+font-weight: bold;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+text-align: center;
+}
+
+h2{
+    color: rgb(158, 20, 158);
+    text-align: center;
+    font-size: 30px;
+} 
+#image1{
+    align-items: center;
+    margin-block-start: 40px;
+    margin-block-end: 60px;
+}
+#image2{
+    align-items: center;
+    margin-block-end: 60px;
+}
+
+img{
+    /*max-width: 100%;*/
+    display: block;
+    margin: 0 auto;
+} 
+
+div{
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(158, 20, 158);
+    text-align: center;
+}
+#myButton{
+    margin-block-start: 30px;
+    margin-block-end: 60px;
+}
+button{
+    background-color: white;
+    border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(243, 95, 211);
+    display: block;
+    margin: auto;
+    
+}
